@@ -19,6 +19,7 @@
 	<files>
 		<filename plugin="pm_special_fields">pm_special_fields.php</filename>
 		<filename>index.html</filename>
+		<filename>menuoptions.xml</filename>
 	</files>
 
 	<languages>
