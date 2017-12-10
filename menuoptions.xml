@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <form>
+   <fields name="params">
+       <fieldset name="image_spot_params" label="IMAGE_SPOT_PARAMS">
+            <field type="media" name="menu_spot_image" label="MENU_SPOT_IMAGE" description="MENU_SPOT_IMAGE_DESC" />
+            <field type="text" name="menu_spot_title" label="MENU_SPOT_TITLE" description="MENU_SPOT_TITLE_DESC" />
+            <field type="editor" name="menu_spot_text" label="MENU_SPOT_TEXT" description="MENU_SPOT_TEXT_DESC" />
+        </fieldset>
+  </fields>
+</form>
